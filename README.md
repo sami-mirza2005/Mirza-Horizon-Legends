@@ -1,8 +1,10 @@
 # 🏎️ Mirza Horizon Legends
 
-### A Fast-Paced 3D Browser Racing Experience
+### A Cross-Platform 3D Browser Racing Experience
 
-Mirza Horizon Legends is a modern browser-based racing game built using HTML5, JavaScript, and Three.js. Designed with smooth gameplay, responsive controls, and immersive racing mechanics, the game delivers an exciting experience directly in the browser without requiring any installation.
+Mirza Horizon Legends is a fast-paced 3D racing game built with HTML5, JavaScript, and Three.js. Designed for both desktop and mobile devices, the game delivers an immersive racing experience directly in the browser without requiring any installation.
+
+Whether you're playing on a laptop, desktop, tablet, or smartphone, Mirza Horizon Legends provides smooth controls, responsive gameplay, and exciting racing action across multiple platforms.
 
 ---
 
@@ -17,15 +19,18 @@ Mirza Horizon Legends is a modern browser-based racing game built using HTML5, J
 * 🏎️ Real-Time 3D Racing Environment
 * ⚡ Nitro Boost System
 * 📱 Mobile Touch Controls
+* 💻 Fully Playable on Desktop & Laptop Browsers
+* 📲 Optimized for Mobile Devices
 * 🎯 Position Tracking System
 * 🏁 Race Completion & Results Screen
 * 🎨 Responsive User Interface
-* 🌐 Play Directly in the Browser
-* 🚀 Lightweight & Fast Loading
+* 🌐 No Installation Required
+* 🚀 Lightweight & Fast Loading Performance
+* 🔥 Cross-Platform Gameplay Experience
 
 ---
 
-## 🛠️ Built With
+## 🛠️ Technologies Used
 
 * HTML5
 * CSS3
@@ -42,17 +47,36 @@ Clone the repository:
 git clone https://github.com/sami-mirza2005/Mirza-Horizon-Legends.git
 ```
 
-Open `index.html` in your browser and start racing.
+Navigate to the project directory and open:
+
+```bash
+index.html
+```
+
+The game runs directly in modern web browsers without additional setup.
 
 ---
 
 ## 🌍 Deployment
 
-The project is deployed and maintained using Netlify.
+The project is hosted on Netlify and automatically deploys through GitHub integration.
 
-Live Site:
+Live Website:
 
 https://mirza-horizon-legends.netlify.app
+
+---
+
+## 📱 Platform Support
+
+| Platform        | Supported |
+| --------------- | --------- |
+| Desktop PC      | ✅         |
+| Laptop          | ✅         |
+| Android         | ✅         |
+| iPhone          | ✅         |
+| Tablet          | ✅         |
+| Modern Browsers | ✅         |
 
 ---
 
@@ -62,7 +86,7 @@ Screenshots and gameplay previews will be added in future updates.
 
 ---
 
-## 🔮 Future Updates
+## 🔮 Planned Features
 
 * Enhanced Visual Effects
 * Additional Racing Tracks
@@ -71,6 +95,7 @@ Screenshots and gameplay previews will be added in future updates.
 * New Vehicles
 * Performance Optimizations
 * Achievement System
+* Multiplayer Features
 
 ---
 
@@ -78,20 +103,23 @@ Screenshots and gameplay previews will be added in future updates.
 
 **Sami Mirza**
 
-Passionate Web Developer & Game Creator
+Web Developer • Game Creator • Technology Enthusiast
 
-GitHub:
+GitHub Profile:
 https://github.com/sami-mirza2005
 
 ---
 
 ## ⭐ Support
 
-If you enjoy the project, consider giving it a star on GitHub. It helps support future development and improvements.
+If you enjoyed this project, consider giving the repository a star. Your support helps motivate future updates and improvements.
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+Currently released for showcase and educational purposes.
 
+---
+
+### Built with Passion by Sami Mirza 🚀
